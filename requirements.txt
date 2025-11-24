@@ -1,0 +1,6 @@
+pytest==8.4.2
+allure-pytest==2.15.0
+selene==2.0.0rc9
+allure-python-commons
+Appium-Python-Client
+python-dotenv
